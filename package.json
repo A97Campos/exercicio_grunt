@@ -1,0 +1,27 @@
+{
+  "name": "exercicio_grunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "grunt": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A97Campos/exercicio_grunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A97Campos/exercicio_grunt/issues"
+  },
+  "homepage": "https://github.com/A97Campos/exercicio_grunt#readme",
+  "dependencies": {
+    "grunt": "^1.6.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-less": "^3.0.0",
+    "grunt-contrib-uglify": "^5.2.2"
+  }
+}
